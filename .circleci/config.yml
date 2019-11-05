@@ -9,7 +9,7 @@ jobs:
 
       - run:
           name: Greeting
-          command: Error Created
+          command: Hello world
 
       - run:
           name: Print the Current Time
